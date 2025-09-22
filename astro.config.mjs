@@ -59,6 +59,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://site.com',
+	site: 'https://lexus.alexsab.ru',
 	base: "/"
 });
